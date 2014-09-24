@@ -1,7 +1,7 @@
 javascript.tagUser
 ==================
 
-jQuery Plugin to tag users in comments (suggestions will appear after an @)
+jQuery Plugin to tag users in comments (suggestions will appear after an @). Designed for twitter bootstrap 3.x
 
 Example:
 
