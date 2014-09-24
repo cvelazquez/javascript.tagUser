@@ -13,6 +13,7 @@
  *
  * @author Christian V.
  * @version 0.1
+ * @link https://github.com/cvelazquez/javascript.tagUser
  * @todo Remove UnderscoreJS dependency
  * @todo Add support for remote results instead of passing a usersCollection
  **/
