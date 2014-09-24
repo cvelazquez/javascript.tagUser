@@ -1,0 +1,11 @@
+/* Suggestions */
+	#ulTagUserUnorderedList{background-color:rgb(239,247,255);padding:2px;border:1px solid rgb(229,229,229);color:#888;font-style:italic;border-top:none;}
+	#ulTagUserUnorderedList li.autocompleteTagUser{cursor:pointer;}
+	#ulTagUserUnorderedList li.autocompleteTagUser:hover{background-color: #333;color:white;}
+
+/* Textarea|input replacement */
+	.contentEditable{box-sizing:border-box;padding:10px;border:1px solid #ccc;border-radius:5px;background-color:#fff;}
+	.contentEditable:empty::after{content:attr(placeholder);color:#aaa;}
+
+/* Each tagged user */
+	.taggedUser{background-color:#96CFED;padding:1px;color:blue;cursor:pointer;border-radius:3px;border:1px solid rgb(163, 163, 255);}
